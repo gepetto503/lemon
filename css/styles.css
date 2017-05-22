@@ -52,6 +52,22 @@
   /*margin-left: 220px;*/
 }
 
+th {
+  border-bottom: 1px solid #b25aff;
+}
+
+/*#purple-box-text {
+  text-align: center;
+  padding: 50px;
+}*/
+
+#numbers {
+  float: right;
+}
+
+td {
+  padding: 60px 50px 40px 50px;
+}
 
 #grey-box img {
   /*position: absolute;
